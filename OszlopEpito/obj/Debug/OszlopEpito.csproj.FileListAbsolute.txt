@@ -1,0 +1,37 @@
+C:\Users\Berkes Zsolt\source\repos\OszlopEpito\bin\Debug\OszlopEpito.exe.config
+C:\Users\Berkes Zsolt\source\repos\OszlopEpito\bin\Debug\OszlopEpito.exe
+C:\Users\Berkes Zsolt\source\repos\OszlopEpito\bin\Debug\OszlopEpito.pdb
+C:\Users\Berkes Zsolt\source\repos\OszlopEpito\obj\Debug\OszlopEpito.Form2.resources
+C:\Users\Berkes Zsolt\source\repos\OszlopEpito\obj\Debug\OszlopEpito.Properties.Resources.resources
+C:\Users\Berkes Zsolt\source\repos\OszlopEpito\obj\Debug\OszlopEpito.csproj.GenerateResource.cache
+C:\Users\Berkes Zsolt\source\repos\OszlopEpito\obj\Debug\OszlopEpito.csproj.CoreCompileInputs.cache
+C:\Users\Berkes Zsolt\source\repos\OszlopEpito\obj\Debug\OszlopEpito.exe
+C:\Users\Berkes Zsolt\source\repos\OszlopEpito\obj\Debug\OszlopEpito.pdb
+C:\Users\Berkes Zsolt\source\repos\OszlopEpito\bin\Debug\GrafikaDLL.dll
+C:\Users\Berkes Zsolt\source\repos\OszlopEpito\bin\Debug\GrafikaDLL.pdb
+C:\Users\Berkes Zsolt\source\repos\OszlopEpito\obj\Debug\OszlopEpito.csproj.CopyComplete
+C:\Users\Berkes Zsolt\source\repos\OszlopEpito\obj\Debug\OszlopEpito.csprojAssemblyReference.cache
+C:\Users\Zsolti\Desktop\OszlopEpito\bin\Debug\OszlopEpito.exe.config
+C:\Users\Zsolti\Desktop\OszlopEpito\bin\Debug\OszlopEpito.exe
+C:\Users\Zsolti\Desktop\OszlopEpito\bin\Debug\OszlopEpito.pdb
+C:\Users\Zsolti\Desktop\OszlopEpito\bin\Debug\GrafikaDLL.pdb
+C:\Users\Zsolti\Desktop\OszlopEpito\obj\Debug\OszlopEpito.csproj.AssemblyReference.cache
+C:\Users\Zsolti\Desktop\OszlopEpito\obj\Debug\OszlopEpito.Form2.resources
+C:\Users\Zsolti\Desktop\OszlopEpito\obj\Debug\OszlopEpito.Properties.Resources.resources
+C:\Users\Zsolti\Desktop\OszlopEpito\obj\Debug\OszlopEpito.csproj.GenerateResource.cache
+C:\Users\Zsolti\Desktop\OszlopEpito\obj\Debug\OszlopEpito.csproj.CoreCompileInputs.cache
+C:\Users\Zsolti\Desktop\OszlopEpito\obj\Debug\OszlopEpito.csproj.CopyComplete
+C:\Users\Zsolti\Desktop\OszlopEpito\obj\Debug\OszlopEpito.exe
+C:\Users\Zsolti\Desktop\OszlopEpito\obj\Debug\OszlopEpito.pdb
+C:\Users\Bence-Laptop\Downloads\OszlopEpito\OszlopEpito\bin\Debug\OszlopEpito.exe.config
+C:\Users\Bence-Laptop\Downloads\OszlopEpito\OszlopEpito\bin\Debug\OszlopEpito.exe
+C:\Users\Bence-Laptop\Downloads\OszlopEpito\OszlopEpito\bin\Debug\OszlopEpito.pdb
+C:\Users\Bence-Laptop\Downloads\OszlopEpito\OszlopEpito\bin\Debug\GrafikaDLL.pdb
+C:\Users\Bence-Laptop\Downloads\OszlopEpito\OszlopEpito\obj\Debug\OszlopEpito.csproj.AssemblyReference.cache
+C:\Users\Bence-Laptop\Downloads\OszlopEpito\OszlopEpito\obj\Debug\OszlopEpito.Form2.resources
+C:\Users\Bence-Laptop\Downloads\OszlopEpito\OszlopEpito\obj\Debug\OszlopEpito.Properties.Resources.resources
+C:\Users\Bence-Laptop\Downloads\OszlopEpito\OszlopEpito\obj\Debug\OszlopEpito.csproj.GenerateResource.cache
+C:\Users\Bence-Laptop\Downloads\OszlopEpito\OszlopEpito\obj\Debug\OszlopEpito.csproj.CoreCompileInputs.cache
+C:\Users\Bence-Laptop\Downloads\OszlopEpito\OszlopEpito\obj\Debug\OszlopEpito.csproj.CopyComplete
+C:\Users\Bence-Laptop\Downloads\OszlopEpito\OszlopEpito\obj\Debug\OszlopEpito.exe
+C:\Users\Bence-Laptop\Downloads\OszlopEpito\OszlopEpito\obj\Debug\OszlopEpito.pdb
